@@ -1,2 +1,2 @@
 # data-portfolio
-“Analyzed sales data to identify top-performing regions, products, and retailers, providing actionable insights to boost revenue and optimize strategies.”
+Executed data analysis projects using SQL, Python, Excel, Power BI, and BigQuery to clean, analyze, and visualize data. Delivered actionable insights and interactive dashboards to support data-driven business decisions.
